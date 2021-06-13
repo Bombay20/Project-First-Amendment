@@ -34,3 +34,23 @@ z = letter number
 capital letter is 0 for lower case and 1 for upper
 2.35.54,1.23.4,54.32.4
 for new char it uses "," and for new line it uses "/"
+
+print(u'\u2573')
+╳
+rather than using {} i shall change it to ╳ so {} can be used in text i could use ✓ as the start of a line and
+╳ as the end of a line
+
+i could create a program that takes the .book file and transforms it into a list of letters and there location in the
+.book file
+
+what file extension should the converted file be used?
+.cipher or .char
+a.append("a")
+
+â
+10 11
+€
+11 12
+¢
+
+set it up as one loop that just checks for each thing and then go from there.
