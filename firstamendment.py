@@ -4,7 +4,6 @@ Author: Bombay20
 Date Created: 10/6/2021
 Date Last Modified: 26/6/2021
 """
-import test2
 import os
 def bookcheck(book):#Checks the book file to make sure what char are advalable
     ab = 0
